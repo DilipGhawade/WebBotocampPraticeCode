@@ -1,0 +1,13 @@
+section {
+    width: 80%;
+    height: 800px;
+    /* background-image: url("https://cdn.sstatic.net/Sites/stackoverflow/company/img/logos/so/so-icon.png"); */
+    background-image: url("https://unsplash.com/photos/the-mountains-are-covered-in-snow-and-clouds-9Kwb05iNtRU");
+    margin: 0 auto;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}
